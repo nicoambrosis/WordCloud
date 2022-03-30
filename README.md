@@ -5,7 +5,7 @@ At the moment it is only possible to obtain the images from a .txt file, but in 
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/nicoambrosis/WordCloud/blob/main/Plan_corto.png">
+  <img src="https://github.com/nicoambrosis/WordCloud/blob/main/Plan_corto.png">
 </p>
 
 ---
