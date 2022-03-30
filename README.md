@@ -5,7 +5,7 @@ At the moment it is only possible to obtain the images from a .txt file, but in 
 
 ---
 # example #1
-![Image text](https://github.com/nicoambrosis/WordCloud/blob/main/Plan_corto.png)
+![Image text](https://github.com/nicoambrosis/WordCloud/blob/main/Plan_corto.png){align=center}
 
 ---
 # example #2
